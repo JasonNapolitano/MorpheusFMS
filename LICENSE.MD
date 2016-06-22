@@ -5,6 +5,7 @@ ___
  - Based on a work at www.MYWEBSITE.com.
  - Permissions beyond the scope of this license may be available at www.MYWEBSITE.com/terms.
  - Any Plugins, Libraries, Frameworks or Open Source Material used in the project hold their own license agreements and do not apply to this application, nor do these terms apply to their license regulations.
+___
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
