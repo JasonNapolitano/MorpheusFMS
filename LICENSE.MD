@@ -1,16 +1,5 @@
-<h3 style="text-align: center; font-size: 14pt;" markdown="1">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</h3>
+<h3 style="text-align: center;" markdown="1">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</h3>
 
-- - -
-**Brief Explanation**
-
-You are free to:
-
- - Share — copy and redistribute the material in any medium or format
- - Adapt — remix, transform, and build upon the material
- - The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-- - -
-**Full License**
 > By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions. **
 
 **Section 1 – Definitions.**
