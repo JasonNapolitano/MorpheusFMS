@@ -10,7 +10,7 @@
 
  Oh yeah, the default MorphuesFMS working directory is whichever directory you install it into on your web server.Of course, the default MorphuesFMS working directory, can be changed at *any time* by simply opening the fantastic, simple to locate & use settings window by cliking a button, and typing the name of the default MorphuesFMS working directory into the required field and saving it. Also, it can be virtually any directory on your web server that you desire.
 
- Now, that the brief introduction to MorpheusFMS has been completed, and you have a better understanding of its core features it is time to break the MorpheusFMS key concepts and key components down into individual subjects, making the learning and understanding proccess much more detailed, while including some great screenshots of MorpheusFMS to give you a visduaol representation of the application (a youTube video will be created and add as well in the near future. So, don't fear, it really is not very hard to break MorpheusFMS's components, requirements, plugins used, and core fundamentals before using it. 
+ Now, that the brief introduction to MorpheusFMS has been completed, and you have a better understanding of its core features it is time to break the MorpheusFMS key concepts and key components down into individual subjects, making the learning and understanding proccess much more detailed, while including some great screenshots of MorpheusFMS to give you a visual representation of the application (a youTube video will be created and add as well in the near future. So, don't fear, it really is not very hard to break MorpheusFMS's components, requirements, plugins used, and core fundamentals before using it. 
 
 **So, how does it work?**
 
