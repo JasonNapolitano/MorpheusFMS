@@ -2,7 +2,7 @@
 
 ### Morpheus File Management System - AKA: MorpheusFMS (Lite/Free Version)
 
-**QUICK NOTE:** This is the Lite version. While still offering tons of amazing functionality, the pro version on CodeCanyon will have an assortment of amazing features added to it.Such as theme slection, user management, permissions manager, Modualr Support and so much more. Also note, the pro version will be uploaded to CodeCanyon as soon as this Lite version is in production mode.
+**QUICK NOTE:** This is the Lite version. While still offering tons of amazing functionality, the Pro version on CodeCanyon will have an assortment of amazing features added to it.Such as theme selection, user management, permissions management, module Support and so much more. Also note, the Pro version will be uploaded to CodeCanyon as soon as this Lite version is in production mode and a link to the Pro version will be embedded in this README once available.
 
 **A brief introduction to MorpheuFMS**
 
