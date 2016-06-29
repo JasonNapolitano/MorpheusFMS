@@ -1,4 +1,4 @@
->**IMPORTANT NOTE:** THIS REPO IS CURRENTLY UNDER CONSTRUCTION AND WILL BE UPDATED DAILY. THE FILES WILL BE UPLOADED SOON, AFTER THE INITIAL README.MD FILE IS COMPLETE
+>**IMPORTANT NOTE:** THIS REPO IS CURRENTLY UNDER CONSTRUCTION AND WILL BE UPDATED HOPEFULLY ON A DAILY BASIS. I WILL TRY MY BEST TO KEEP THIS REPO UP DAILY GIVEN THAT I WORK AN AVERAGE OF 10-12 HOURS A DAY IN TEH HEAT OF SOUTHERN CALIFRONIA :-P. ALSO, THE APPLICATIONS ACTUAL FILES WILL BE UPLOADED AFTER THE INITIAL README.MD FILE IS COMPLETE AND THE PRODUCTION BUILD IS READY. AS OF TODAY, THERE IS NO OFFICIAL TIMELINE FOR THAT, I APOLOGIZE FOR THE INCONVENIENCE.
 
 ### Morpheus File Management System - AKA: MorpheusFMS (Lite/Free Version)
 
@@ -22,8 +22,8 @@
  
  MorpheusFMS is powered by some amazin frameworks, libraries and plugins, allowing for a robust, secure, ultra lightweight File Management Platform. The key frameworks and libraries are:
  
-  - **The Morpheus PHP Backbone/Framework:** Powered by Codeigniter 3, Morpheus' Backbone is ... EDIT HERE COMING SOON ...
- More coming soon ... This repo is coming soon and this README is still under heavy construction. For now, I am just going to continue the README while i Finish the Production version of the application. The i will upload it to the repository for all to try and see!
+  - **The Morpheus PHP Backbone/Framework:** Powered by Codeigniter 3, Morpheus' Backbone is the heart and soul of all morpheus applications. Using the CodeIgniter 3 Framework, it uses proper MVC Structuring (HMVC in certain Morpheus Applications, it follows all applicable PSR Standards (EG - PSR - 1, 2, 4 [When using Composer], & 7, ). As well as being the core of the Morpheus built Applications, it also ensures proper web security principles are used, uses the MY_Model/MY_Controller, for easier global modifications and database interactions. The list of what is put into the modified version of CodeIgniter is practically endless, but it is an absolutely amazing revision that doeas everything needed for robust, strong and powerful web applications.
+  - **More coming soon:** This repo is coming soon and this README is still under heavy construction. For now, I am just going to continue the README while i Finish the Production version of the application. The i will upload it to the repository for all to try and see!
 
 ~ Thank you for your Patience,
 
